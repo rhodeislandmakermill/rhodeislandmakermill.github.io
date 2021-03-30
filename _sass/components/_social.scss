@@ -1,7 +1,7 @@
 .social {
   display: flex;
   width: 100%;
-  justify-content: space-around;
+  justify-content: center;
 
   li {
     padding: 0.5rem 1rem;
@@ -11,6 +11,7 @@
     .label {
       text-transform: capitalize;
       font-family: _font(family);
+      font-size: 1rem;
     }
   }
 }
