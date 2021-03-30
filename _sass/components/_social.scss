@@ -1,7 +1,16 @@
 .social {
-  border: 1px solid orangered;
-}
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
 
-* {
-  color: orangered;
+  li {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    list-style: none;
+
+    .label {
+      text-transform: capitalize;
+      font-family: _font(family);
+    }
+  }
 }
