@@ -10,30 +10,7 @@ permalink: /classes/
 
 Join us for this workshop on making your own WiFi-controlled LED wake-up lamp. Based on the popular ESP32 microcontroller and a strip of RGB LEDs, this workshop will walk you through the steps of creating a light based alarm clock. This is an online event. Supplies should be purchased from our materials list below prior to the event. This lamp can be used for a number of IoT projects that use full-color programmable LEDs.
 
-<!-- Noscript content for added SEO -->
-
-<noscript><a href="https://www.eventbrite.com/e/wifi-enabled-wake-up-lamp-workshop-tickets-149047510115" rel="noopener noreferrer" target="_blank"></noscript>
-
-<!-- You can customize this button any way you like -->
-
-<button id="eventbrite-widget-modal-trigger-149047510115" type="button">Buy Tickets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '149047510115',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-149047510115',
-        onOrderComplete: exampleCallback
-    });
-</script>
+**Sign up at our [Eventbrite](https://www.eventbrite.com/e/wifi-enabled-wake-up-lamp-workshop-tickets-149047510115) page.**
 
 ### Materials for workshop:
 
